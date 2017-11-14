@@ -1,13 +1,13 @@
 # Proyecto final - Study jam
-
-
-## Uso
-
+proyecto final
+BABY MASTER
+#uso
+para personas de edad de 3 a 7 años
 ## Captura
 
 <div align="center">
     <center>
-        <img src="/drawable/captura.png" width="300">
+        <img src="/img/captura.png" width="300">
     </center>
 </div>
 <br><br>
